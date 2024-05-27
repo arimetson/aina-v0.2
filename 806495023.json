@@ -439,7 +439,7 @@
                         "level": 10
                     },
                     {
-                        "pointId": 1308007,
+                        "pointId": 007,
                         "level": 1
                     },
                     {
@@ -844,7 +844,7 @@
                 "pos": 1,
                 "promotion": 6,
                 "avatarId": 1308,
-                "rank": 2,
+                "rank": 6,
                 "_assist": true
             },
             {
